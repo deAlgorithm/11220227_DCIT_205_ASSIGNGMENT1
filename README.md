@@ -27,7 +27,7 @@ The application consists of 7 main pages:
 To set up the project locally, follow these steps:
 
 ```bash
-git clone https://github.com/your-github-username/DCIT_205_ASSIGNGMENT1.git
+git clone https://github.com/deAlgorithm/11220227_DCIT_205_ASSIGNGMENT1
 cd repo-name
 npm install
 npm start
